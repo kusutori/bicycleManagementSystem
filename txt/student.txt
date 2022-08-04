@@ -1,0 +1,5 @@
+1	2022/6/27	66.66	2	apple banana 1	weather 
+2	2022/6/28	60.00	3	apple today judge 2	time year 
+3	2022/6/29	100.00	4	year time apple weather 0	
+4	2022/6/30	80.00	4	year time apple weather 1	apple 
+5	2022/7/1	80.00	4	weather time year today 1	weather 

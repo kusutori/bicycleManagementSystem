@@ -1,0 +1,9 @@
+1 banana 香蕉
+2 apple 苹果
+3 one 一
+4 weather 天气
+5 judge 判断
+6 today 今天
+7 time 时间
+8 year 年
+9 student 学生
