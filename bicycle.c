@@ -57,14 +57,14 @@ void statistical();                 //统计
 
 int main()
 {
-    read_bicycle("/mnt/d/vscode/c/txt/bicycle.txt"); //读取单车信息
-    read_member("/mnt/d/vscode/c/txt/member.txt");   //读取会员信息
+    read_bicycle("txt/bicycle.txt"); //读取单车信息
+    read_member("txt/member.txt");   //读取会员信息
     while (flags == 0)
     {
         feature_show_selection();
     }
-    write_bicycle("/mnt/d/vscode/c/txt/bicycle.txt"); //写入单车信息
-    write_member("/mnt/d/vscode/c/txt/member.txt");   //写入会员信息
+    write_bicycle("txt/bicycle.txt"); //写入单车信息
+    write_member("txt/member.txt");   //写入会员信息
     return 0;
 }
 
